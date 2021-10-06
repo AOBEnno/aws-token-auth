@@ -1,5 +1,5 @@
 {
-  "UserPoolId": "us-east-1_m5zs7s2Gd",
+  "UserPoolId": "{your user pool id}",
   "ClientId": "{your client id}",
   "AuthFlow": "ADMIN_NO_SRP_AUTH",
   "AuthParameters": {
